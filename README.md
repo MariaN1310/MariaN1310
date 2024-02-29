@@ -41,7 +41,7 @@ Here are some of my standout projects:
   - Period: March 2016 - August 2021
   - Description: Specialized in cleaning, updating, and repairing computers and laptops. Conducted system maintenance, performance optimization, and hardware upgrades. Installed programs, games, and configured equipment for optimal performance.
 
-### Education
+## Education
 
 - **UX/UI Design Flex Course - Coderhouse**
   - Period: September 2023
