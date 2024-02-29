@@ -15,50 +15,46 @@
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/blancomariano/)
 
 ## Languages
-- **Spanish:** Nativo
-- **English:** Nivel C2
+- **Spanish:** Native
+- **English:** C2 Level
 
 ## 🚀 About Me
-Soy un desarrollador Full Stack con una pasión por crear aplicaciones web innovadoras y de alta calidad. Disfruto enfrentando desafíos y encontrando soluciones creativas. Me apasiona el aprendizaje continuo y estar al tanto de las últimas tendencias en desarrollo de software.
+I'm a Full Stack Developer with a passion for building innovative and high-quality web applications. I enjoy tackling challenges and finding creative solutions. I'm passionate about continuous learning and staying up-to-date with the latest trends in software development.
 
-## Proyectos Destacados
+## Featured Projects
 
-Aquí hay algunos de mis trabajos destacados:
+Here are some of my standout projects:
 
-- [SellosJB](https://www.sellosjb.com.ar/1): Web para una fabrica de sellos de goma, creada desde cero y en constante actualización
-- [JLGarciapropiedades](https://www.jlgarciapropiedades.com.ar/): Web de inmobiliaria creada desde cero.
-- [Estudio Mentor](http://www.estudiomentor.com.ar/): Web para un estudio contable
+- [SellosJB](https://www.sellosjb.com.ar/): Website for a rubber stamp factory, constantly updated.
+- [JLGarciapropiedades](https://www.jlgarciapropiedades.com.ar/): Website for a major real estate agency
+- [Estudio Mentor](http://www.estudiomentor.com.ar/): Website for an accounting firm.
 
-## Experiencia Laboral
+## Work Experience
 
-- **Desarrollador Web - Autonomo**
-  - Período: Abril 2017 - Presente
-  - Descripción: Desarrollé y diseñé tres sitios web funcionales y atractivos para diversos clientes, utilizando las siguientes tecnologías:
-    Bootstrap · PHP · JavaScript · HTML5 · jQuery · MySQL · CSS3
+- **Web Developer - Freelance**
+  - Period: April 2017 - Present
+  - Description: Developed and designed three functional and attractive websites for various clients. 
 
-    Actualmente, trabajo en un proyecto en desarrollo que permitirá a los usuarios crear remitos y facturas en línea de manera sencilla y práctica.
-    Este proyecto tiene un alto potencial al ofrecer a los clientes la capacidad de organizar precios y gestionar el stock, brindando una solución integral para sus necesidades de gestión.
+    Currently, I'm working on an ongoing project that will allow users to create invoices and receipts online in a simple and practical way. This project has great potential by offering customers the ability to organize prices and manage inventory, providing a comprehensive solution for their management needs.
 
-- **Técnico de reparación de equipos informaticos - Autonomo**
-  - Período: Marzo 2016 - Agosto 2021
-  - Descripción: Especializado en la limpieza, actualización y reparación de computadoras y notebooks.
-    Realizaba mantenimiento de sistemas, optimización de rendimiento y actualización de hardware.
-    Instalación de programas, juegos y configuración de equipos para un óptimo funcionamiento
+- **Computer Equipment Repair Technician - Freelance**
+  - Period: March 2016 - August 2021
+  - Description: Specialized in cleaning, updating, and repairing computers and laptops. Conducted system maintenance, performance optimization, and hardware upgrades. Installed programs, games, and configured equipment for optimal performance.
 
-### Educación
+### Education
 
-**Curso de Diseño UX/UI Flex - Coderhouse**
-  - Período: septiembre 2023
+- **UX/UI Design Flex Course - Coderhouse**
+  - Period: September 2023
 
-**Desarrollo web en Bootstrap - Coderhouse**
-  - Período: mayo 2018
+- **Bootstrap Web Development - Coderhouse**
+  - Period: May 2018
 
-**Programador web inicial - Coderhouse**
-  - Período: julio 2017
+- **Initial Web Programmer - Coderhouse**
+  - Period: July 2017
 
-**Diseño gráfico digital - Coderhouse**
-  - Período: noviembre 2016
+- **Digital Graphic Design - Coderhouse**
+  - Period: November 2016
 
-Si deseas saber más sobre mi experiencia y proyectos, no dudes en contactarme a través de mi correo electrónico o conectarte conmigo en LinkedIn.
+If you'd like to learn more about my experience and projects, feel free to contact me via email or connect with me on LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/blancomariano/)
